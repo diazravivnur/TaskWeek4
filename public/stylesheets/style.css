@@ -1,0 +1,30 @@
+form {
+
+  color: rgb(0, 195, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  text-justify: newspaper;
+  text-align: left;
+  background-color: gray;
+  width: 300px;
+  border: 15px solid rgb(75, 75, 75);
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+  label{
+    color: rgb(0, 195, 255);
+  }
+  h1 {
+      text-align: center;
+      font-size: 1em;
+      color: #009;
+      margin-bottom: .3em;
+      text-decoration: double;
+    }
+  
+   input{
+      text-align: left;
+      float: right;
+    }
+  
